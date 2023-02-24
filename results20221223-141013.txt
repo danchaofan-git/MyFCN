@@ -1,0 +1,12 @@
+[epoch: 0]
+train_loss: 0.7588
+lr: 0.000100
+global correct: 91.2
+IoU: ['90.9', '24.0', 'nan']
+mean IoU: nan
+global precision: 42.2
+average row precision: ['97.8', '28.9', '0.0']
+global recall: 50.4
+average row recall: ['92.8', '58.4', '0.0']
+F1: 46.0
+
